@@ -1,0 +1,14 @@
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.AssemblyInfoInputs.cache
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.AssemblyInfo.cs
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\bin\Debug\net9.0\Todo.exe
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\bin\Debug\net9.0\Todo.deps.json
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\bin\Debug\net9.0\Todo.runtimeconfig.json
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\bin\Debug\net9.0\Todo.dll
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\bin\Debug\net9.0\Todo.pdb
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.dll
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\refint\Todo.dll
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.pdb
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\Todo.genruntimeconfig.cache
+C:\Users\userp\source\repos\OneTierArchitecture\ToDo\obj\Debug\net9.0\ref\Todo.dll
